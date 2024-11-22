@@ -29,7 +29,7 @@ header p {
 #catalogo {
     display: flex;
     justify-content: space-around;
-    gap: 60px;
+    gap: 5px;
     flex-wrap: wrap;
 }
 
