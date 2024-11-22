@@ -8,12 +8,12 @@ body {
     font-family: Arial, sans-serif;
     background-color: #f4f4f4;
     color: #333;
-    padding: 20px;
+    padding: 10px;
 }
 
 header {
     text-align: center;
-    margin-bottom: 40px;
+    margin-bottom: 20px;
 }
 
 header h1 {
@@ -29,7 +29,7 @@ header p {
 #catalogo {
     display: flex;
     justify-content: space-around;
-    gap: 20px;
+    gap: 10px;
     flex-wrap: wrap;
 }
 
@@ -38,7 +38,7 @@ header p {
     border-radius: 8px;
     overflow: hidden;
     box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
-    width: 200px;
+    width: 20px;
     text-align: center;
     padding: 10px;
     margin: 10px;
@@ -55,15 +55,15 @@ header p {
 }
 
 .cartaz {
-    width: 150px;
-    height: 225px;
+    width: 10px;
+    height: 25px;
     object-fit: cover;
     border-radius: 8px;
 }
 
 footer {
     text-align: center;
-    margin-top: 50px;
+    margin-top: 20px;
     font-size: 1rem;
     color: #555;
 }
