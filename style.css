@@ -38,10 +38,10 @@ header p {
     border-radius: 8px;
     overflow: hidden;
     box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
-    width: 10px;
+    width: 5px;
     text-align: center;
-    padding: 10px;
-    margin: 10px;
+    padding: 5px;
+    margin: 5px;
 }
 
 .serie h2 {
@@ -63,7 +63,7 @@ header p {
 
 footer {
     text-align: center;
-    margin-top: 20px;
+    margin-top: 10px;
     font-size: 1rem;
     color: #555;
 }
