@@ -38,7 +38,7 @@ header p {
     border-radius: 8px;
     overflow: hidden;
     box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
-    width: 20px;
+    width: 10px;
     text-align: center;
     padding: 10px;
     margin: 10px;
@@ -56,7 +56,7 @@ header p {
 
 .cartaz {
     width: 10px;
-    height: 25px;
+    height: 15px;
     object-fit: cover;
     border-radius: 8px;
 }
