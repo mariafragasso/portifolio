@@ -55,10 +55,10 @@ header p {
 }
 
 .cartaz {
-    width: 5px;
-    height: 15px;
+    width: 10%;
+    height: 15%;
     object-fit: cover;
-    border-radius: 8px;
+    border-radius: 8%;
 }
 
 footer {
